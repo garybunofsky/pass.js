@@ -18,7 +18,7 @@
 
 3. Finally you will want to specify the string you are parsing for.
 ```javascript
-  document.getElementById('your-id-3').value = getParameter('your-string');
+  document.getElementById('your-id').value = getParameter('your-string');
 ```
 
 
@@ -28,7 +28,7 @@ Full example:
 <script type="text/javascript" src="pass.js"></script>
 
 <!-- In your form-->
-<input id="your-id" name="your-id" size="20" type="text"/>
+<input id="your-id" name="your-id" type="text"/>
 ```
 
 ```javascript
