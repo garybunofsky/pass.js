@@ -8,8 +8,7 @@ function getParameter(source) {
     else
       return results[1];
 } 
-// The function above simply parses the url. 
-// It is searching for strings that are inside getParamenter.
+// The function above parses the url. 
 document.addEventListener('DOMContentLoaded',function(){
 	document.getElementById('your-id-1').value = getParameter('source');
 	document.getElementById('your-id-2').value = getParameter('medium');
