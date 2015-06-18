@@ -14,4 +14,4 @@ document.addEventListener('DOMContentLoaded',function(){
 	document.getElementById('your-id-1').value = getParameter('source');
 	document.getElementById('your-id-2').value = getParameter('medium');
 	document.getElementById('your-id-3').value = getParameter('campaign');
-})
+});
