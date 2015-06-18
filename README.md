@@ -37,4 +37,4 @@ document.getElementById('your-id').value = getParameter('your-string');
 ```
 
 ##License
-Pass.js is licensed under the [MIT license](http://opensource.org/licenses/MIT)).
+Pass.js is licensed under the [MIT license](http://opensource.org/licenses/MIT).
