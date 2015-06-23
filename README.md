@@ -5,7 +5,7 @@ Pass.js is a way to send or 'pass' url parameters to form fields. In other words
 
 
 ##Usage
-1. Include the javascript in your documents '<footer>'
+1. Include the javascript in your documents <footer>
 ```html
 <footer>
   <script type="text/javascript" src="pass.js"></script>
