@@ -9,7 +9,7 @@
 function main() {
    if (document.cookie.indexOf("source") >= 0) {
      //If cookie is set do nothing.
-     alert("Cookie is set, doing nothing");
+     //
    }
    else {
      //If cookie is not set parse url.
