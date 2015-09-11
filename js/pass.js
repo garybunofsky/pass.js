@@ -50,7 +50,7 @@ function getParameter(source) {
    var regex = new RegExp(regexS);
    var results = regex.exec(window.location.href);
    if (results == null)
-      return "undefined";
+      return "Organic";
    else
       return results[1];
 }
