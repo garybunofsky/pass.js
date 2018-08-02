@@ -37,5 +37,5 @@ Full example:
 document.getElementById('your-id').value = getParameter('your-string');
 ```
 
-##License
+### License
 Pass.js is licensed under the [MIT license](http://opensource.org/licenses/MIT).
